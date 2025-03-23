@@ -15,7 +15,7 @@
 ```bash
 pip install git+https://github.com/openai/whisper.git
 ```
-3. 依據你的平台安裝ffmpeg
+3. 依據您的平台安裝ffmpeg
 4. 安裝依賴項：
 
 ```bash
